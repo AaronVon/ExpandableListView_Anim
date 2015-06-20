@@ -3,12 +3,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.pioneer.aaron.expandablelistview_anim.AnimatedExpandableListView
+    <com.pioneer.aaron.expandablelistview_anim.Widgets.AnimatedExpandableListView
         android:id="@+id/animated_listview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-    </com.pioneer.aaron.expandablelistview_anim.AnimatedExpandableListView>
+    </com.pioneer.aaron.expandablelistview_anim.Widgets.AnimatedExpandableListView>
 
 
 </RelativeLayout>

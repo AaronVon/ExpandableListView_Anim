@@ -1,4 +1,4 @@
-package com.pioneer.aaron.expandablelistview_anim;
+package com.pioneer.aaron.expandablelistview_anim.Widgets;
 
 import android.widget.ExpandableListView;
 import java.util.ArrayList;
@@ -19,7 +19,6 @@ import android.view.animation.Transformation;
 import android.widget.AbsListView;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.ExpandableListAdapter;
-import android.widget.ExpandableListView;
 
 /**
  * Created by Aaron on 6/20/15.
